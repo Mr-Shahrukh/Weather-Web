@@ -13,7 +13,6 @@ It provides real-time weather data, 3-day forecasts, and hourly temperature char
 * 📅 **3-Day Forecast**
 * 📈 **Hourly Temperature Chart**
 * 🌦 **Dynamic Weather Icons**
-* 🌙 **Dark / Light Mode Toggle**
 * 🖼 **Dynamic Background (Day/Night)**
 * 📱 **Fully Responsive Design**
 * ⚡ **Optimized Performance**
@@ -44,7 +43,7 @@ src/
  │
  ├── utils/
  │    ├── getBackground.js
- │    ├── getWeatherIcon.js
+ │    ├── getWeatherIcon.jsx
  │
  ├── CSS/
  │    ├── App.css
@@ -60,7 +59,7 @@ src/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/Mr-Shahrukh/weather-dashboard.git
 ```
 
 2. Navigate to project folder:
@@ -107,12 +106,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
----
-
 ## 🚀 Future Improvements
 
 * 🌍 Display city name using reverse geocoding
@@ -136,7 +129,7 @@ npm run dev
 ## 👨‍💻 Author
 
 Your Name
-GitHub: https://github.com/Shahrukh-Sayyad
+GitHub: https://github.com/Mr-Shahrukh
 
 ---
 
