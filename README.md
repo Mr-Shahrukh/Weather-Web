@@ -127,8 +127,12 @@ npm run dev
 ---
 ## Screenshot 
 
-
-
+![image alt](https://github.com/Mr-Shahrukh/Weather-Web/blob/main/Screenshot%20(471).png?raw=true)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 
 
 
