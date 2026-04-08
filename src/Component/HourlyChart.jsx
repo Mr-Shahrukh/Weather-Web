@@ -1,4 +1,5 @@
 import "../CSS/HourlyChart.css";
+import { ResponsiveContainer } from "recharts";
 import {
   LineChart,
   Line,

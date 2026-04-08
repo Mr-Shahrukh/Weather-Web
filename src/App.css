@@ -1,6 +1,9 @@
 body {
   margin: 0;
   font-family: sans-serif;
+  max-width: 1200px;
+  margin: auto;
+  padding: 10px;
 }
 
 .app {

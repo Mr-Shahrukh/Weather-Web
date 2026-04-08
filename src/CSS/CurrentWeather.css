@@ -2,9 +2,15 @@
   width: 100%;
   background: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(12px);
-  padding: 20px;
+  padding: 15px;
   border-radius: 16px;
   margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .current-weather {
+    text-align: center;
+  }
 }
 
 .temp {
